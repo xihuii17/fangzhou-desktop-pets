@@ -1,0 +1,51 @@
+name: 问题反馈
+description: 报告安装、启动、显示或交互问题
+title: "[问题] "
+labels:
+  - bug
+body:
+  - type: dropdown
+    id: character
+    attributes:
+      label: 桌宠
+      options:
+        - 庄方宜桌宠
+        - 凯尔希-思衡托桌宠
+        - 凯尔希童真桌宠
+        - 管理员桌宠（不带面罩）
+        - 管理员桌宠（带面罩）
+        - 管理员桌宠（双形态）
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 版本与安装包文件名
+      placeholder: 例如 0.1.1 / 凯尔希童真桌宠-通用版-Windows-0.1.1-安装包.exe
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: 操作系统
+      placeholder: 例如 Windows 11 23H2 x64 或 macOS 15.6 Apple Silicon
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 请说明从启动到出现问题的完整步骤。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 截图或日志
+      description: 请先移除 API Key、账号、个人路径和其他敏感信息。
