@@ -2,11 +2,9 @@
 
 “方舟桌宠”是一个非官方同人桌宠下载页。本仓库只提供软件介绍、安装说明、截图、版本记录、问题反馈和安装包下载，不公开开发源码，也不包含角色 GIF 素材目录。
 
-> **安装包尚未公开发布**
+> **[前往 GitHub Releases 下载](https://github.com/xihuii17/fangzhou-desktop-pets/releases)**
 >
-> macOS 与 Windows 候选包仍在完成发布前启动验证。验证通过后，将在 [GitHub Releases](https://github.com/xihuii17/fangzhou-desktop-pets/releases) 开放下载；在此之前请勿从其他来源获取候选包。
->
-> 正式下载前请认准角色名称、版本、平台与“通用版”字样，并在 [完整安装包清单](RELEASE_MANIFEST.md) 中核对文件大小和 SHA-256。
+> 六个角色的 macOS DMG、Windows 安装版和 Windows 免安装版现已发布。下载前请认准角色名称、版本、平台与“通用版”字样，并在 [完整安装包清单](RELEASE_MANIFEST.md) 中核对文件大小和 SHA-256。
 
 ## 下载
 

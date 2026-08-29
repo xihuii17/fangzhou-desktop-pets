@@ -4,11 +4,11 @@
 
 ## 下载文件
 
-- `管理员桌宠（带面罩）-通用版-macOS-0.1.0.dmg`
-- `管理员桌宠（带面罩）-通用版-Windows-0.1.0-安装包.exe`
-- `管理员桌宠（带面罩）-通用版-Windows-0.1.0-免安装版.zip`
+- `Endministrator-Masked-Desktop-Pet-General-macOS-0.1.0.dmg`
+- `Endministrator-Masked-Desktop-Pet-General-Windows-0.1.0-Setup.exe`
+- `Endministrator-Masked-Desktop-Pet-General-Windows-0.1.0-Portable.zip`
 
-文件大小和 SHA-256 见 [安装包清单](../RELEASE_MANIFEST.md)。
+文件大小和 SHA-256 见 [安装包清单](https://github.com/xihuii17/fangzhou-desktop-pets/blob/main/RELEASE_MANIFEST.md)。
 
 ## 支持系统
 

@@ -4,11 +4,11 @@
 
 ## 下载文件
 
-- `庄方宜桌宠-通用版-macOS-0.7.3.dmg`
-- `庄方宜桌宠-通用版-Windows-0.7.3-安装包.exe`
-- `庄方宜桌宠-通用版-Windows-0.7.3-免安装版.zip`
+- `Zhuang-Fangyi-Desktop-Pet-General-macOS-0.7.3.dmg`
+- `Zhuang-Fangyi-Desktop-Pet-General-Windows-0.7.3-Setup.exe`
+- `Zhuang-Fangyi-Desktop-Pet-General-Windows-0.7.3-Portable.zip`
 
-文件大小和 SHA-256 见 [安装包清单](../RELEASE_MANIFEST.md)。
+文件大小和 SHA-256 见 [安装包清单](https://github.com/xihuii17/fangzhou-desktop-pets/blob/main/RELEASE_MANIFEST.md)。
 
 ## 支持系统
 

@@ -4,11 +4,11 @@
 
 ## 下载文件
 
-- `凯尔希-思衡托桌宠-通用版-macOS-0.1.1.dmg`
-- `凯尔希-思衡托桌宠-通用版-Windows-0.1.1-安装包.exe`
-- `凯尔希-思衡托桌宠-通用版-Windows-0.1.1-免安装版.zip`
+- `Kaltsit-Sihengtuo-Desktop-Pet-General-macOS-0.1.1.dmg`
+- `Kaltsit-Sihengtuo-Desktop-Pet-General-Windows-0.1.1-Setup.exe`
+- `Kaltsit-Sihengtuo-Desktop-Pet-General-Windows-0.1.1-Portable.zip`
 
-文件大小和 SHA-256 见 [安装包清单](../RELEASE_MANIFEST.md)。
+文件大小和 SHA-256 见 [安装包清单](https://github.com/xihuii17/fangzhou-desktop-pets/blob/main/RELEASE_MANIFEST.md)。
 
 ## 支持系统
 
